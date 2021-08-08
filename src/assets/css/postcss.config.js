@@ -3,6 +3,7 @@ const tailwindcss = require("tailwindcss");
 
 module.exports = {
     plugins: [
+        require('postcss-import-ext-glob'),
         require('postcss-import'),
         tailwindcss("tailwind.config.js"),
         require('postcss-nested'),

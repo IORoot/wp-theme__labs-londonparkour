@@ -5,7 +5,7 @@
 
 
 /* Load all Component CSS */
-@import "../../components/**/*.css";
+@import-glob "../../components/**/*.css";
 
 
 /* Add a new BASE layer to set default typography */
