@@ -5,7 +5,7 @@ module.exports = {
 
   purge: {
     content: [
-      'file_scans/**/*.html',
+      'file_scans/files/*.html',
     ],
   },
 
