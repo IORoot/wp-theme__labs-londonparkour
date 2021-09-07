@@ -11,7 +11,6 @@
     "@tailwindcss/line-clamp": "^0.2.1",
     "autoprefixer": "^10.1.0",
     "postcss-nested": "^5.0.3",
-    "postcss-import-ext-glob": "^2.0.1",
     "postcss-import": "^14.0.2",
     "tailwindcss": "^2.1.2",
     "modern-normalize": "1.1.0"

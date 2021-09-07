@@ -5,9 +5,9 @@
 
 
 /* Load all Component CSS */
-@import "../../components/sub-menu/postCSS/_main-menu.css";
-@import "../../components/progress-bar/postCSS/_progress-bar.css";
-@import "../../components/sub-menu/postCSS/_main-menu.css";
+@import "./components/_main-menu.css";
+@import "./components/_sub-menu.css";
+@import "./components/_progress-bar.css";
 
 
 /* Add a new BASE layer to set default typography */
