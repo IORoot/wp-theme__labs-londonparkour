@@ -74,3 +74,8 @@ require get_template_directory() . '/src/hooks/theme_partials.php';
  * Search filters
  */
 require get_template_directory() . '/src/hooks/search.php';
+
+/**
+ * Remove Media Templates
+ */
+require get_template_directory() . '/src/hooks/remove_media_templates.php';

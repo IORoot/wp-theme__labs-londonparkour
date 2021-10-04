@@ -23,6 +23,7 @@
             include( __DIR__.'/github.svg' );
             include( __DIR__.'/bitfield.svg' );
             include( __DIR__.'/unionjack.svg' );
+            include( __DIR__.'/downmenu.svg' );
         echo '</div>';
     }
 
