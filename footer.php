@@ -4,6 +4,7 @@
 			<?php 
 				include( __DIR__.'/src/assets/svgs/footer_svgs.php' );
 				do_action('get_footer_code'); 
+				do_action('page_builder_footer_code'); 
 			?>
 
 			<div class="js">
