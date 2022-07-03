@@ -4,9 +4,8 @@
 
 <div align="center">
 
-<div style="filter: invert(88%) sepia(13%) saturate(2256%) hue-rotate(74deg) brightness(96%) contrast(80%);">
-<img src="https://cdn.jsdelivr.net/npm/@mdi/svg@6.7.96/svg/test-tube.svg" style="width:200px;"/>
-</div>
+
+<img src="https://svg-rewriter.sachinraja.workers.dev/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2F%40mdi%2Fsvg%406.7.96%2Fsvg%2Ftest-tube.svg&fill=%234ADE80&width=200px&height=200px" style="width:200px;"/>
 
 <h3 align="center">ParkourLabs.com Wordpress Theme</h3>
 
